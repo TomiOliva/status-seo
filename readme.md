@@ -1,7 +1,7 @@
-To run the script, execute the command:
+## To run the script, execute the command:
 
-bash
-Copiar código
+
+
 python3 status-seo.py
 To configure environment variables, please note:
 
